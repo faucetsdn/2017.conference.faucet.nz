@@ -1,50 +1,168 @@
 - 
-  date: "2014-10-24"
-  dateReadable: "October 24"
-  tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+  date: "2017-10-18"
+  dateReadable: "October 18"
+  tracks:
+    - {title: "PlugFest", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
+        startTime: "09:00",
+        endTime: "09:30",
+        sessionIds: [001]
+    }
+    - {
+        startTime: "09:30",
+        endTime: "10:30",
+        sessionIds: [005]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "11:00",
+        sessionIds: [002]
     }
     - {
         startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 404, 004]
+        endTime: "12:30",
+        sessionIds: [005]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
-    }
-- 
-  date: "2014-10-25"
-  dateReadable: "October 25"
-  tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-  timeslots: 
-    - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [404, 002]
-    }
-    - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [002, 003]
-    }
-    - {
-        startTime: "13:00",
-        endTime: "13:45",
+        startTime: "12:30",
+        endTime: "13:30",
         sessionIds: [003]
     }
     - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
+        startTime: "13:30",
+        endTime: "14:00",
+        sessionIds: [006]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "15:00",
+        sessionIds: [007]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "15:30",
+        sessionIds: [004]
+    }
+    - {
+        startTime: "15:30",
+        endTime: "17:00",
+        sessionIds: [007]
+    }
+-
+  date: "2017-10-19"
+  dateReadable: "October 19"
+  tracks:
+    - {title: "Strategic & Operational Stream", color: "#03a9f4"}
+  timeslots:
+    - {
+        startTime: "09:00",
+        endTime: "09:30",
+        sessionIds: [008]
+    }
+    - {
+        startTime: "09:30",
+        endTime: "10:30",
+        sessionIds: [009]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "11:00",
+        sessionIds: [002]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:30",
+        sessionIds: [010]
+    }
+    - {
+        startTime: "11:30",
+        endTime: "12:00",
+        sessionIds: [011]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "12:30",
+        sessionIds: [012]
+    }
+    - {
+        startTime: "12:30",
+        endTime: "13:30",
+        sessionIds: [003]
+    }
+    - {
+        startTime: "13:30",
+        endTime: "14:30",
+        sessionIds: [013]
+    }
+    - {
+        startTime: "14:30",
+        endTime: "15:00",
+        sessionIds: [099]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "15:30",
+        sessionIds: [004]
+    }
+    - {
+        startTime: "15:30",
+        endTime: "17:00",
+        sessionIds: [014]
+    }
+-
+  date: "2017-10-20"
+  dateReadable: "October 20"
+  tracks:
+    - {title: "Technical & Development Stream", color: "#e91e63"}
+  timeslots:
+    - {
+        startTime: "09:00",
+        endTime: "10:00",
+        sessionIds: [015]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "10:30",
+        sessionIds: [016]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "11:00",
+        sessionIds: [002]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:30",
+        sessionIds: [017]
+    }
+    - {
+        startTime: "11:30",
+        endTime: "12:00",
+        sessionIds: [018]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "12:30",
+        sessionIds: [019]
+    }
+    - {
+        startTime: "12:30",
+        endTime: "13:30",
+        sessionIds: [003]
+    }
+    - {
+        startTime: "13:30",
+        endTime: "15:00",
+        sessionIds: [020]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "15:30",
+        sessionIds: [004]
+    }
+    - {
+        startTime: "15:30",
+        endTime: "17:00",
+        sessionIds: [020]
     }
