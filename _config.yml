@@ -43,6 +43,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/schedule/", text: "Schedule"}
 bottomNavigationLinks:
  - {link: "http://conference.faucet.nz/blog/call-for-presentations", text: "Become a speaker"}
 rightNavigationButtons:
