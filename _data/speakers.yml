@@ -25,10 +25,10 @@
   id: 3
   name: "Marc"
   surname: "Bruyere"
-  company: ""
+  company: "University of Tokyo"
   title: ""
-  bio: ""
-  thumbnailUrl: NoPicture.png
+  bio: "Marc Bruyere started his career in 1996 working for Club-Internet.fr, and for Cisco, Vivendi Universal, Credit Suisse First Boston, Airbus/Dimension Data, Force10 Networks, and Dell. He received is Ph.D degree from the LAAS CNRS, his thesis is about Open Source OpenFlow SDN for IXPs. He designed and deployed the first European OpenFlow IXP fabric for the TouIX. Now he is a PostDoc at the University of Tokyo."
+  thumbnailUrl: MarcBruyere.jpg
   rockstar: true
 -
   id: 4
