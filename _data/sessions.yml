@@ -105,6 +105,7 @@
 -
   id: 023
   title: "Flexible ASIC-based OpenFlow pipeline"
+  description: "HPE Aruba switches support the FAUCET pipeline using flexible ASIC technology. We'll review how this works starting from the flexible ASIC table allocations, to using tools to construct the pipeline, and finally how FAUCET communicates the pipeline to the switch."
   speakers: [14]
   subtype: presentation
 -
