@@ -7,8 +7,6 @@
   bio: "Brad builds open source production OpenFlow networks for various deployments. He comes from a systems background so puts a lot of effort into automating and monitoring these deployments."
   thumbnailUrl: BradCowie.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "Faucet Developer", title: "Faucet Developer", url: "https://github.com/REANNZ/faucet/graphs/contributors"}
   social:
     - {name: "twitter", link: "https://twitter.com/nzgizmoguy"}
     - {name: "github", link: "https://github.com/gizmoguy"}
@@ -16,7 +14,7 @@
   id: 2
   name: "Sam"
   surname: "Ribeiro"
-  company: ""
+  company: "Google"
   title: ""
   bio: ""
   thumbnailUrl: NoPicture.png
@@ -34,7 +32,7 @@
   id: 4
   name: "Angela"
   surname: "Nash"
-  company: ""
+  company: "REANNZ"
   title: ""
   bio: ""
   thumbnailUrl: NoPicture.png
@@ -43,7 +41,7 @@
   id: 5
   name: "Ben"
   surname: "Pfaff"
-  company: ""
+  company: "VMware"
   title: ""
   bio: ""
   thumbnailUrl: NoPicture.png
@@ -61,7 +59,7 @@
   id: 7
   name: "Atri"
   surname: "Indiresan"
-  company: ""
+  company: "Cisco"
   title: ""
   bio: ""
   thumbnailUrl: NoPicture.png
@@ -70,7 +68,7 @@
   id: 8
   name: "Michael"
   surname: "Baird"
-  company: ""
+  company: "Victoria University of Wellington"
   title: ""
   bio: ""
   thumbnailUrl: NoPicture.png
@@ -79,7 +77,7 @@
   id: 9
   name: "Ian"
   surname: "Welch"
-  company: ""
+  company: "Victoria University of Wellington"
   title: ""
   bio: ""
   thumbnailUrl: NoPicture.png
@@ -88,7 +86,7 @@
   id: 10
   name: "Trung"
   surname: "Troung"
-  company: ""
+  company: "Victoria University of Wellington"
   title: ""
   bio: ""
   thumbnailUrl: NoPicture.png
@@ -98,6 +96,30 @@
   name: "FAUCET"
   surname: "FOUNDATION"
   company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: NoPicture.png
+-
+  id: 12
+  name: "Stephen"
+  surname: "Stuart"
+  company: "Google"
+  title: ""
+  bio: ""
+  thumbnailUrl: NoPicture.png
+-
+  id: 13
+  name: "William"
+  surname: "Fisher"
+  company: ""
+  title: ""
+  bio: "William W. Fisher is an independent software developer and creator of the ZOF framework and “oftr” command-line tool. In a prior career, he worked on a cross-platform network mapping and monitoring tool for heterogeneous networks."
+  thumbnailUrl: NoPicture.png
+-
+  id: 14
+  name: "Shaun"
+  surname: "Wackerly"
+  company: "Hewlett Packard Enterprise"
   title: ""
   bio: ""
   thumbnailUrl: NoPicture.png
