@@ -34,9 +34,11 @@
   surname: "Nash"
   company: "REANNZ"
   title: ""
-  bio: ""
+  bio: "Angela is the Chief Operations and Information Officer at the Research and Education Advanced Network of New Zealand (REANNZ). She has over 20 years IT related experience spanning from hands-on technical roles (analyst/programmer, technical operations, etc) through to executive level leadership roles. Angela has worked across a wide range of sectors and technologies, including Spark, Datacom and IBM. She is a member of the Directors Institute of New Zealand, NZ Tech Executive Leaders, Business Mentors Org, CIO Advisory Panel and a Faucet Foundation Board Member."
   thumbnailUrl: NoPicture.png
   rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/angelanashnz/"}
 -
   id: 5
   name: "Ben"
