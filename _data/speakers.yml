@@ -45,7 +45,7 @@
   surname: "Pfaff"
   company: "VMware"
   title: ""
-  bio: ""
+  bio: "Ben Pfaff is a lead developer of the Open vSwitch project.  He was one of the creators of OpenFlow and led the development effort of the original OpenFlow reference implementation.  He was a founding employee at Nicira and is currently at VMware.  He received his PhD from Stanford University in 2007.  Ben has worked in free and open source software projects, including Debian and GNU, for over 20 years."
   thumbnailUrl: NoPicture.png
   rockstar: true
 -

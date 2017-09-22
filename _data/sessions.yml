@@ -54,7 +54,8 @@
   subtype: presentation
 -
   id: 013
-  title: "OVS DPDK as a virtualized router"
+  title: "Open vSwitch for High-Performance Virtual Routing"
+  description: "This talk covers how Open vSwitch can be deployed for virtual routing.  In addition to the basics, it talks about OVS testing and troubleshooting features that can simplify debugging.  It also talks about performance, including how caching and flow table design influences performance, and how DPDK and multiple kinds of hardware offload fit into the performance picture."
   speakers: [5]
   subtype: presentation
 -
