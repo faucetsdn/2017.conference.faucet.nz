@@ -94,7 +94,8 @@
   subtype: presentation
 -
   id: 021
-  title: "FAUCET and enterprise SDN"
+  title: "FAUCET and Enterprise SDN"
+  description: "Google has been developing solutions for enterprise networking using SDN, including contributing to the open-source FAUCET project. This talk discusses how the FAUCET approach enables security, development velocity, and other innovation."
   speakers: [12]
   subtype: presentation
 -
