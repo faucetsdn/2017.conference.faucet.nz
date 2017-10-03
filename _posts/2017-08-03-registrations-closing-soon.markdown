@@ -7,6 +7,4 @@ isStaticPost: false
 
 Just a quick reminder that registrations for the first ever FAUCET conference will be closing on the 6th of October.
 
-If you plan on attending we strongly encourage you to register your tickets now (they are free after all).
-
-https://www.eventbrite.com/e/faucetcon-and-faucet-plugfest-fall-2017-registration-37054421773
+If you plan on attending we strongly encourage you to [register your tickets now](https://www.eventbrite.com/e/faucetcon-and-faucet-plugfest-fall-2017-registration-37054421773) (they are free after all).
