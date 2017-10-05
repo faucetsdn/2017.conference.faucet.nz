@@ -45,9 +45,9 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/schedule/", text: "Schedule"}
 bottomNavigationLinks:
- - {link: "http://conference.faucet.nz/blog/call-for-presentations", text: "Become a speaker"}
+ - {link: "http://conference.faucet.nz/schedule", text: "Schedule"}
 rightNavigationButtons:
- - {link: "http://conference.faucet.nz/blog/call-for-presentations", text: "Become a speaker"}
+ - {link: "http://conference.faucet.nz/schedule", text: "Schedule"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -56,7 +56,7 @@ eventDate: "October 18th-20th, 2017"
 typeoutTextValues: ''
 typeoutFallback: ""
 heroButtons:
- - {link: "http://conference.faucet.nz/blog/call-for-presentations", text: "Become a speaker"}
+ - {link: "http://conference.faucet.nz/schedule", text: "Schedule"}
  - {permalink: "/#tickets", text: "Get tickets"}
 
 # About Block
