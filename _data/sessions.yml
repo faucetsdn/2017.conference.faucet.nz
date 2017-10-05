@@ -111,5 +111,10 @@
   speakers: [14]
   subtype: presentation
 -
+  id: 024
+  title: "Introduction to the Faucet Foundation"
+  speakers: [15]
+  subtype: presentation
+-
   id: 099
   title: "To be announced"

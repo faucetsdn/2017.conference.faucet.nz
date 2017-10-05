@@ -125,3 +125,11 @@
   title: ""
   bio: "For nearly 15 years, Shaun has worked for HPE Networking in firmware and SDN controller development. He has authored 30 patent applications in the areas of L3 networking, security, and SDN. He is a California native who recently relocated to Kentucky."
   thumbnailUrl: NoPicture.png
+-
+  id: 15
+  name: "Richard"
+  surname: "Nelson"
+  company: "University of Waikato"
+  title: ""
+  bio: ""
+  thumbnailUrl: NoPicture.png
