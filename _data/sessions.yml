@@ -1,7 +1,7 @@
 -
   id: 001
   title: "Welcome/Setup"
-  speaker: [016]
+  speakers: [016]
   subtype: presentation
 -
   id: 002
@@ -86,7 +86,7 @@
   subtype: presentation
 -
   id: 019
-  title: "Scalable Provider Edge rOuters"
+  title: "Scalable Provider Edge Routers"
   speakers: [10]
   subtype: presentation
 -
@@ -107,7 +107,7 @@
   subtype: presentation
 -
   id: 023
-  title: "Flexible ASIC-based OpenFlow pipeline"
+  title: "Flexible ASIC-based OpenFlow Pipeline"
   description: "HPE Aruba switches support the FAUCET pipeline using flexible ASIC technology. We'll review how this works starting from the flexible ASIC table allocations, to using tools to construct the pipeline, and finally how FAUCET communicates the pipeline to the switch."
   speakers: [14]
   subtype: presentation
