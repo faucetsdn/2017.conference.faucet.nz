@@ -1,22 +1,23 @@
 -
   id: 001
-  title: "Josh welcome/setup"
+  title: "Welcome/Setup"
+  speaker: [016]
   subtype: presentation
 -
   id: 002
-  title: "Morning tea"
+  title: "Morning Tea"
   service: true
 -
   id: 003
-  title: "Lunch break"
+  title: "Lunch Break"
   service: true
 -
   id: 004
-  title: "Afternoon tea"
+  title: "Afternoon Tea"
   service: true
 -
   id: 005
-  title: "FAUCET interop demonstration"
+  title: "FAUCET Interop Demonstration"
   subtype: workshop
 -
   id: 006
@@ -25,7 +26,7 @@
   subtype: presentation
 -
   id: 007
-  title: "gNMI FAUCET test runs"
+  title: "gNMI FAUCET Test Runs"
   subtype: workshop
 -
   id: 008
@@ -34,7 +35,7 @@
   subtype: presentation
 -
   id: 009
-  title: "Deploying FAUCET in the enterprise"
+  title: "Deploying FAUCET in the Enterprise"
   speakers: [1]
   subtype: presentation
 -
@@ -60,12 +61,12 @@
   subtype: presentation
 -
   id: 014
-  title: "How to deploy a FAUCET enterprise network (live coding tutorial)"
+  title: "How to Deploy a FAUCET Enterprise Network (live coding tutorial)"
   speakers: [1]
   subtype: workshop
 -
   id: 015
-  title: "FAUCET architecture/design principles"
+  title: "FAUCET Architecture and Design Principles"
   speakers: [6]
   subtype: presentation
 -
@@ -76,7 +77,7 @@
   subtype: presentation
 -
   id: 017
-  title: "Lightning talks"
+  title: "Lightning Talks"
   subtype: presentation
 -
   id: 018
@@ -85,12 +86,12 @@
   subtype: presentation
 -
   id: 019
-  title: "Scalable provider edge routers"
+  title: "Scalable Provider Edge rOuters"
   speakers: [10]
   subtype: presentation
 -
   id: 020
-  title: "Dev workshop"
+  title: "Developer Workshop"
   subtype: presentation
 -
   id: 021
@@ -115,6 +116,10 @@
   title: "Introduction to the Faucet Foundation"
   speakers: [15]
   subtype: presentation
+-
+  id: 025
+  title: "Group Photo"
+  description: "We will take a group photo of the first ever FAUCET conference."
 -
   id: 099
   title: "To be announced"
