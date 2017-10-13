@@ -61,14 +61,19 @@
     - {title: "Strategic & Operational Stream", color: "#03a9f4"}
   timeslots:
     - {
-        startTime: "09:00",
-        endTime: "09:30",
+        startTime: "08:45",
+        endTime: "09:15",
         sessionIds: [021]
     }
     - {
-        startTime: "09:30",
-        endTime: "10:30",
+        startTime: "09:15",
+        endTime: "10:15",
         sessionIds: [009]
+    }
+    - {
+        startTime: "10:19",
+        endTime: "10:30",
+        sessionIds: [026]
     }
     - {
         startTime: "10:30",

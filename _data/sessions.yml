@@ -121,5 +121,9 @@
   title: "Group Photo"
   description: "We will take a group photo of the first ever FAUCET conference."
 -
+  id: 026
+  title: "Great Shakeout Earthquake Drill"
+  description: "At 10:19 a.m. on Oct. 19, personnel should Drop, Cover, and Hold On during the drill, then evacuate the building and report to an Emergency Assembly Area. Once there, Building Emergency Teams and Protective Services will account for personnel."
+-
   id: 099
   title: "To be announced"
