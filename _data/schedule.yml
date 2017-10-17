@@ -120,6 +120,16 @@
         endTime: "17:00",
         sessionIds: [014]
     }
+    - {
+        startTime: "17:15",
+        endTime: "17:30",
+        sessionIds: [027]
+    }
+    - {
+        startTime: "17:30",
+        endTime: "20:30",
+        sessionIds: [028]
+    }
 -
   date: "2017-10-20"
   dateReadable: "October 20"

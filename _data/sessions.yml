@@ -125,5 +125,15 @@
   title: "Great Shakeout Earthquake Drill"
   description: "At 10:19 a.m. on Oct. 19, personnel should Drop, Cover, and Hold On during the drill, then evacuate the building and report to an Emergency Assembly Area. Once there, Building Emergency Teams and Protective Services will account for personnel."
 -
+  id: 027
+  title: "Shuttle buses leave for conference dinner"
+  place: "Outside B66"
+  description: "There will be two shuttles provided from the building 66 to the dinner venue that leave at 5.15pm."
+-
+  id: 028
+  title: "Conference Dinner"
+  place: "Gio's Pizza and Bocce, 2420 Shattuck Ave, Berkeley, CA 94704"
+  description: "There is a no-host dinner on Thursday night - if you'd like to attend the cost will be approx $25-$30. There will be two shuttles provided from the lab to the dinner venue that leave at 5.15pm."
+-
   id: 099
   title: "To be announced"
