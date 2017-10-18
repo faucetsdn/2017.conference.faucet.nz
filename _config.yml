@@ -94,6 +94,12 @@ eventPlaceCoordinates: "37.8759277, -122.2500274"
 mapCenterCoordinates: "37.8759277, -122.2500274"
 mapMobileCenterCoordinates: "37.8759277, -122.2500274"
 
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "What's Happening?"
+twitterHashTag: "faucetcon"
+twitterFeed: "https://sla.ac/tweetledee/userjson.php?c=10&cache_interval=8000"
+
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
