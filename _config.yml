@@ -44,10 +44,13 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/live/", text: "Live Stream"}
 bottomNavigationLinks:
  - {link: "http://conference.faucet.nz/schedule", text: "Schedule"}
+ - {link: "http://conference.faucet.nz/live", text: "Live Stream"}
 rightNavigationButtons:
  - {link: "http://conference.faucet.nz/schedule", text: "Schedule"}
+ - {link: "http://conference.faucet.nz/live", text: "Live Stream"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -57,7 +60,7 @@ typeoutTextValues: ''
 typeoutFallback: ""
 heroButtons:
  - {link: "http://conference.faucet.nz/schedule", text: "Schedule"}
- - {permalink: "/#tickets", text: "Get tickets"}
+ - {permalink: "/live", text: "Live Stream"}
 
 # About Block
 aboutTitle: "About FAUCET Conference"
