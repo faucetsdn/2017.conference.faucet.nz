@@ -38,27 +38,32 @@
   id: 009
   title: "Deploying FAUCET in the Enterprise"
   speakers: [1]
+  presentation: "/slides/Brad Cowie - Deploying FAUCET in the Enterprise.pdf"
   subtype: presentation
 -
   id: 010
   title: "Deploying FAUCET at an IXP"
   speakers: [3]
+  presentation: "/slides/Marc Bruyere - SDN IXP.pdf"
   subtype: presentation
 -
   id: 011
   title: "PlugFest review and gNMI for ZTN"
   speakers: [2]
+  presentation: "/slides/Sam Ribeiro - gNMI interop summary.pdf"
   subtype: presentation
 -
   id: 012
   title: "What does SDN mean for a CIO?"
   speakers: [4]
+  presentation: "/slides/Angela Nash - A CIOS view of SDN.pptx"
   subtype: presentation
 -
   id: 013
   title: "Open vSwitch for High-Performance Virtual Routing"
   description: "This talk covers how Open vSwitch can be deployed for virtual routing.  In addition to the basics, it talks about OVS testing and troubleshooting features that can simplify debugging.  It also talks about performance, including how caching and flow table design influences performance, and how DPDK and multiple kinds of hardware offload fit into the performance picture."
   speakers: [5]
+  presentation: "/slides/Ben Pfaff - OVS Faucet Tutorial.pdf"
   subtype: presentation
 -
   id: 014
@@ -69,12 +74,14 @@
   id: 015
   title: "FAUCET Architecture and Design Principles"
   speakers: [6]
+  presentation: "/slides/Chris Lorier - FAUCET Architecture.pptx"
   subtype: presentation
 -
   id: 016
   title: "OpenFlow Pipeline Design for Efficient Hardware Data Planes"
   description: "OpenFlow is a highly flexible networking paradigm that is capable of addressing a wide range of networking protocols and applications. An abstract model of an Openflow pipeline may be expressed as a series of Match-Action Tables (MAT) that match on one or more packet and/or packet metadata fields, and actions that may involve forwarding decisions, packet modifications and production of metadata. While such flexibility is very powerful in terms of capabilities, it requires complex ASICs that may not support large scale or performance, or will do so at great cost. FAUCET is an open source SDN/OpenFlow controller that specifies a relatively limited subset of OpenFlow that may be efficiently implemented on a wide variety of platforms, while meeting the needs of enterprise networks. We explore how this pipeline could be redesigned in order to use hardware resources such as pipeline stages, TCAMs and Hash Tables more efficiently to maximize scale and performance without compromising capability. The conclusions of this study may be used to inform the hardware-software co-design of Openflow based networking devices."
   speakers: [7]
+  presentation: "/slides/Atri Indiresan - OpenFlow Pipeline Design for Efficient Hardware Data Planes.pdf"
   subtype: presentation
 -
   id: 017
@@ -105,17 +112,20 @@
   title: "Faucet on ZOF: OpenFlow as a Micro-Service"
   description: "This talk will introduce the ZOF framework and show how it's capable of running Faucet. ZOF replaces Ryu while providing a simple programming model built on the async/await language features added in Python 3.5. ZOF relies on a separate OpenFlow micro-service (written in C++) to handle its message serialization needs. I will talk about how ZOF compares to Ryu and how I maintain a downstream port of Faucet that targets ZOF."
   speakers: [13]
+  presentation: "/slides/Bill Fisher - Faucet on ZOF.pdf"
   subtype: presentation
 -
   id: 023
   title: "Flexible ASIC-based OpenFlow Pipeline"
   description: "HPE Aruba switches support the FAUCET pipeline using flexible ASIC technology. We'll review how this works starting from the flexible ASIC table allocations, to using tools to construct the pipeline, and finally how FAUCET communicates the pipeline to the switch."
   speakers: [14]
+  presentation: "/slides/Shaun Wackerly - Flexible ASIC-based OpenFlow pipeline.pptx"
   subtype: presentation
 -
   id: 024
   title: "Introduction to the Faucet Foundation"
   speakers: [15]
+  presentation: "/slides/Richard Nelson - Faucet Foundation.pdf"
   subtype: presentation
 -
   id: 025
