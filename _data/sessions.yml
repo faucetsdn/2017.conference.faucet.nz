@@ -23,7 +23,7 @@
   id: 006
   title: "Intro to gNMI/ZTN"
   speakers: [2]
-  slides: "/slides/Sam Ribeiro - gNMI tech preso.pdf"
+  presentation: "/slides/Sam Ribeiro - gNMI tech preso.pdf"
   subtype: presentation
 -
   id: 007
