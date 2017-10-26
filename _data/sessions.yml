@@ -24,6 +24,7 @@
   title: "Intro to gNMI/ZTN"
   speakers: [2]
   presentation: "/slides/Sam Ribeiro - gNMI tech preso.pdf"
+  video: "//www.youtube.com/embed/DCqX_QnC4bQ"
   subtype: presentation
 -
   id: 007
@@ -39,24 +40,28 @@
   title: "Deploying FAUCET in the Enterprise"
   speakers: [1]
   presentation: "/slides/Brad Cowie - Deploying FAUCET in the Enterprise.pdf"
+  video: "//www.youtube.com/embed/juU3xU4d7dg"
   subtype: presentation
 -
   id: 010
   title: "Deploying FAUCET at an IXP"
   speakers: [3]
   presentation: "/slides/Marc Bruyere - SDN IXP.pdf"
+  video: "//www.youtube.com/embed/nDsPierYfD8"
   subtype: presentation
 -
   id: 011
   title: "PlugFest review and gNMI for ZTN"
   speakers: [2]
   presentation: "/slides/Sam Ribeiro - gNMI interop summary.pdf"
+  video: "//www.youtube.com/embed/fumX3t7FbU4"
   subtype: presentation
 -
   id: 012
   title: "What does SDN mean for a CIO?"
   speakers: [4]
   presentation: "/slides/Angela Nash - A CIOS view of SDN.pptx"
+  video: "//www.youtube.com/embed/ueaMh2aG1j0"
   subtype: presentation
 -
   id: 013
@@ -64,6 +69,7 @@
   description: "This talk covers how Open vSwitch can be deployed for virtual routing.  In addition to the basics, it talks about OVS testing and troubleshooting features that can simplify debugging.  It also talks about performance, including how caching and flow table design influences performance, and how DPDK and multiple kinds of hardware offload fit into the performance picture."
   speakers: [5]
   presentation: "/slides/Ben Pfaff - OVS Faucet Tutorial.pdf"
+  video: "//www.youtube.com/embed/BztZSAcfEvY"
   subtype: presentation
 -
   id: 014
@@ -106,6 +112,7 @@
   title: "FAUCET and Enterprise SDN"
   description: "Google has been developing solutions for enterprise networking using SDN, including contributing to the open-source FAUCET project. This talk discusses how the FAUCET approach enables security, development velocity, and other innovation."
   speakers: [12]
+  video: "//www.youtube.com/embed/Qc33y9Of_tA"
   subtype: presentation
 -
   id: 022
@@ -126,6 +133,7 @@
   title: "Introduction to the Faucet Foundation"
   speakers: [15]
   presentation: "/slides/Richard Nelson - Faucet Foundation.pdf"
+  video: "//www.youtube.com/embed/ZgnT_imL0XM"
   subtype: presentation
 -
   id: 025
@@ -145,6 +153,16 @@
   title: "Conference Dinner"
   place: "Gio's Pizza and Bocce, 2420 Shattuck Ave, Berkeley, CA 94704"
   description: "There is a no-host dinner on Thursday night - if you'd like to attend the cost will be approx $25-$30. There will be two shuttles provided from the lab to the dinner venue that leave at 5.15pm."
+-
+  id: 029
+  title: "Link022: an open WiFi access point"
+  speakers: [17,18]
+  video: "//www.youtube.com/embed/5iHZNfg73eY"
+-
+  id: 030
+  title: "LBLnet"
+  speakers: [19]
+  video: "//www.youtube.com/embed/3aShHF835nE"
 -
   id: 099
   title: "To be announced"
