@@ -1,6 +1,6 @@
 -
   id: 001
-  title: "Welcome/Setup"
+  title: "Welcome"
   speakers: [16]
   subtype: presentation
 -
@@ -32,7 +32,7 @@
   subtype: workshop
 -
   id: 008
-  title: "Welcome/FAUCET Foundation"
+  title: "Welcome"
   speakers: [11]
   subtype: presentation
 -
@@ -81,6 +81,7 @@
   title: "FAUCET Architecture and Design Principles"
   speakers: [6]
   presentation: "/slides/Chris Lorier - FAUCET Architecture.pptx"
+  video: "//www.youtube.com/embed/dS-aKz7pPn0"
   subtype: presentation
 -
   id: 016
@@ -88,6 +89,7 @@
   description: "OpenFlow is a highly flexible networking paradigm that is capable of addressing a wide range of networking protocols and applications. An abstract model of an Openflow pipeline may be expressed as a series of Match-Action Tables (MAT) that match on one or more packet and/or packet metadata fields, and actions that may involve forwarding decisions, packet modifications and production of metadata. While such flexibility is very powerful in terms of capabilities, it requires complex ASICs that may not support large scale or performance, or will do so at great cost. FAUCET is an open source SDN/OpenFlow controller that specifies a relatively limited subset of OpenFlow that may be efficiently implemented on a wide variety of platforms, while meeting the needs of enterprise networks. We explore how this pipeline could be redesigned in order to use hardware resources such as pipeline stages, TCAMs and Hash Tables more efficiently to maximize scale and performance without compromising capability. The conclusions of this study may be used to inform the hardware-software co-design of Openflow based networking devices."
   speakers: [7]
   presentation: "/slides/Atri Indiresan - OpenFlow Pipeline Design for Efficient Hardware Data Planes.pdf"
+  video: "//www.youtube.com/embed/g22kCd0_keo"
   subtype: presentation
 -
   id: 017
@@ -97,11 +99,13 @@
   id: 018
   title: "802.1x and FAUCET"
   speakers: [8,9]
+  video: "//www.youtube.com/embed/2wsthwLfQw0"
   subtype: presentation
 -
   id: 019
   title: "Scalable Provider Edge Routers"
   speakers: [10]
+  video: "//www.youtube.com/embed/9_KxactygaI"
   subtype: presentation
 -
   id: 020
@@ -120,6 +124,7 @@
   description: "This talk will introduce the ZOF framework and show how it's capable of running Faucet. ZOF replaces Ryu while providing a simple programming model built on the async/await language features added in Python 3.5. ZOF relies on a separate OpenFlow micro-service (written in C++) to handle its message serialization needs. I will talk about how ZOF compares to Ryu and how I maintain a downstream port of Faucet that targets ZOF."
   speakers: [13]
   presentation: "/slides/Bill Fisher - Faucet on ZOF.pdf"
+  video: "//www.youtube.com/embed/kJO2F8MDQuc"
   subtype: presentation
 -
   id: 023
