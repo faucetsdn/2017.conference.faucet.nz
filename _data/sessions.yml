@@ -100,6 +100,7 @@
   title: "802.1x and FAUCET"
   speakers: [8,9]
   video: "//www.youtube.com/embed/2wsthwLfQw0"
+  presentation: "/slides/Michael Baird - 802.1x and faucet.pdf"
   subtype: presentation
 -
   id: 019
