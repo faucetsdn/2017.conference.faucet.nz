@@ -14,7 +14,7 @@ title: "FAUCET Conference and FAUCET PlugFest 2017"
 email: "conference@faucet.nz"
 description: "The first FAUCET conference and second FAUCET PlugFest will be held at Lawrence Berkeley National Laboratory from 18 to 20 October 2017. We will cover the operational advantages of SDN and FAUCET and examine some of the technical challenges of SDN development and how FAUCET is approaching them."
 baseurl: "/"
-url: "http://conference.faucet.nz"
+url: "https://2017.conference.faucet.nz"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
@@ -26,7 +26,7 @@ organizerAlternateName: "FAUCET Foundation"
 organizerDescription: ""
 organizerEmail: "foundation@faucet.org.nz"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://faucet.org.nz/"
+organizerLink: "https://faucet.org.nz/"
 
 # Head
 metaKeywords: "faucet, faucetcon, plugfest, openflow, sdn"
@@ -36,7 +36,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://conference.faucet.nz/blog/call-for-presentations"
+c4pUrl: "https://2017.conference.faucet.nz/blog/call-for-presentations"
 
 # Navigation
 navigationLinks:
@@ -46,11 +46,11 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/live/", text: "Live Stream"}
 bottomNavigationLinks:
- - {link: "http://conference.faucet.nz/schedule", text: "Schedule"}
- - {link: "http://conference.faucet.nz/live", text: "Live Stream"}
+ - {link: "https://2017.conference.faucet.nz/schedule", text: "Schedule"}
+ - {link: "https://2017.conference.faucet.nz/live", text: "Live Stream"}
 rightNavigationButtons:
- - {link: "http://conference.faucet.nz/schedule", text: "Schedule"}
- - {link: "http://conference.faucet.nz/live", text: "Live Stream"}
+ - {link: "https://2017.conference.faucet.nz/schedule", text: "Schedule"}
+ - {link: "https://2017.conference.faucet.nz/live", text: "Live Stream"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -59,7 +59,7 @@ eventDate: "October 18th-20th, 2017"
 typeoutTextValues: ''
 typeoutFallback: ""
 heroButtons:
- - {link: "http://conference.faucet.nz/schedule", text: "Schedule"}
+ - {link: "https://2017.conference.faucet.nz/schedule", text: "Schedule"}
  - {permalink: "/live", text: "Live Stream"}
 
 # About Block
@@ -122,7 +122,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://faucet.nz", text: "faucet.nz"}
+   - {link: "https://faucet.nz", text: "faucet.nz"}
  -
   title: "Contacts"
   links:
@@ -156,7 +156,7 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Lviv"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
+ - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="https://lwo.aero/en/transport">airport website</a>.'}
  - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
  - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
